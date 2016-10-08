@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LyxDemo</string>
+    <string-array name="test">
+        <item>我是测试①</item>
+        <item>我是测试②</item>
+        <item>我是测试③</item>
+        <item>我是测试④</item>
+        <item>我是测试⑤</item>
+        <item>我是测试⑥</item>
+        <item>我是测试⑦</item>
+        <item>我是测试⑧</item>
+        <item>我是测试⑨</item>
+        <item>我是测试10</item>
+    </string-array>
+</resources>
